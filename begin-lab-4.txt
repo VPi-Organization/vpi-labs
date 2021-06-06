@@ -2,3 +2,6 @@
 Redaction -2
 Redaction -3
 Redaction #3
+
+Задание #15-1
+Задание #15-2
